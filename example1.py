@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Using an infinite loop, continue to ask the user to enter the number of an
 # operation that they’d like to perform. If they enter a number associated
 # with a SQL function, then run that function. However, if they enter

@@ -1,0 +1,15 @@
+SQL Summary
+Basic SQL syntax ...
+1. Inserting:
+
+INSERT INTO table_name (column1, column2, column3)
+VALUES (value1, value2, value3);
+2. Updating:
+
+UPDATE table_name
+SET column1=value1
+WHERE some_column=some_value;
+3. Deleting
+
+DELETE FROM table_name
+WHERE some_column=some_value;
